@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=inaniby&left_color=green&right_color=red)👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=inaniby.inaniby&left_color=green&right_color=red)👋
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=inaniby&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inaniby&theme=dark&layout=compact)
